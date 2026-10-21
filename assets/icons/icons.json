@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/thomai-koutsaliari-logo.svg"
+ },
+ "source_md5": "af45d4c579a3b3982c3431c45fecc3e4",
+ "version": "3cd60203",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "73f4ea6b0362e1becf142f4c5b53afc9"
+ ],
+ "made": "2026-10-21"
+}
