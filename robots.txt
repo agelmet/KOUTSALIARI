@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
 Disallow: /index.backup
+Disallow: /odigos-arthron/
 
 Sitemap: https://koutsaliari-psychologist.gr/sitemap.xml
